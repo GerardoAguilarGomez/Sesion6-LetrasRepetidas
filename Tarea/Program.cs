@@ -6,7 +6,7 @@ namespace Tarea
     {
         static void Main(string[] args)
         {
-            milestone2 Tarea = new milestone2();
+            milestone3 Tarea = new milestone3();
             Tarea.LetrasRepetidas();
         }
     }
